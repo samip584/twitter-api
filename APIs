@@ -1,0 +1,31 @@
+APIs
+
+- web1.0, web2.0
+- request, response
+- request type (GET, POST, PUT, PATCH, DELETE)
+- headers
+- querystring
+- json
+- python requests
+
+
+Youtube's Facebook Page via the Facebook Graph API
+http://graph.facebook.com/youtube
+
+Same thing, this time with filters
+https://graph.facebook.com/youtube?fi...
+
+Google Maps Geocode API call for the city of Chicago
+http://maps.googleapis.com/maps/api/g...
+
+Apigee Instagram API console
+https://apigee.com/console/instagram
+
+HTTP Request Methods
+http://en.wikipedia.org/wiki/Hypertex...
+
+Postman Chrome Extension
+https://chrome.google.com/webstore/de...
+
+Twitter's Status Update documentation.
+https://dev.twitter.com/docs/api/1.1/...
